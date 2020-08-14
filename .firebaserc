@@ -1,0 +1,10 @@
+{
+  "projects": {
+    "default": "test-worker-332ee"
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+  }
+}
